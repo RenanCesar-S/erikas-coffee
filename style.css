@@ -99,4 +99,5 @@ ul li img {
     display: flex;
     max-width: 70px;
     max-height: 80px;
+    justify-items: right;
 }
