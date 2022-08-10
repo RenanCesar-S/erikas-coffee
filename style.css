@@ -1,0 +1,102 @@
+/* GLOBAL EDIT */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: blanchedalmond;
+    font-family: 'Viaoda Libre', cursive;
+}
+
+ul {
+    list-style: none;
+}
+
+/* FONTS EDIT */
+
+h1, h2, h3, .price {
+    text-transform: uppercase;
+    color: #161613;
+}
+
+.description {
+    color: rgba(0, 0, 0, 0.76);
+    font-size: 12px;
+    line-height: 20px;
+    font-family: cursive;
+}
+
+/* HEADER */
+
+header {
+    padding: 32px 0;
+    text-align: center;
+}
+
+header, section {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+header h1 {
+    margin-bottom: 4px;
+    font-size: 30px;
+    line-height: 33px;
+}
+
+header h1 span {
+    color: #995000;
+}
+
+header p {
+    font-size: 14px;
+    line-height: 16px;
+    font-family: cursive;
+    color: rgba(0, 0, 0, 0.849);
+}
+
+header img {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+/* SECTIONS LIST */
+
+section {
+    margin-bottom: 24px;
+}
+
+section h2 {
+    background-color: #fed7aa;
+    padding: 8px 16px;
+    text-align: center;
+    margin-bottom: 24px;
+    font-size: 20px;
+}
+
+/* LISTS */
+
+ul li {
+    margin-bottom: 16px;
+    display: flex;
+}
+
+li .items {
+    max-width: 240px;
+}
+
+.items h3 {
+    margin-bottom: 8px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+/* IMAGES */
+
+ul li img {
+    display: flex;
+    max-width: 80px;
+    max-height: 80px;
+}
