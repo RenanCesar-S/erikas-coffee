@@ -97,6 +97,6 @@ li .items {
 
 ul li img {
     display: flex;
-    max-width: 80px;
+    max-width: 70px;
     max-height: 80px;
 }
