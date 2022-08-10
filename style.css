@@ -97,6 +97,7 @@ li .items {
 
 ul li img {
     display: flex;
+    justify-content: flex-end;
     max-width: 70px;
     max-height: 80px;
     margin-left: 5px;
