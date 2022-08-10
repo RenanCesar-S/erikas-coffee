@@ -5,6 +5,12 @@
     padding: 0;
 }
 
+@media (max-width: 1200px) {
+    body {
+      max-width: 960px;
+    }
+   }
+
 body {
     background: blanchedalmond;
     font-family: 'Viaoda Libre', cursive;
