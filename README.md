@@ -1,0 +1,3 @@
+Fiz este projeto com base em estudos de CSS, podendo centralizar e otimizar divs...
+
+Projeto somente para pratica.
